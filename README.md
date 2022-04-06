@@ -5,6 +5,8 @@ This collection of Notebooks is meant to demonstrate spatial modeling techniques
 
 To open a notebook within Colab, expand the [Notebooks](/Notebooks) directory and click on a given notebook. After the notebook opens in GitHub, click on the “Open in Colab” link (top left). Once in Colab you can step through each notebook cell.
 
+Additional resouces can be found at https://sites.google.com/view/hoglandsspatialsolutions/learning
+
 ## Check back regularly for new notebooks!
 
 ### List of current notebooks
