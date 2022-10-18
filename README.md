@@ -20,3 +20,4 @@ Additional resouces can be found at https://sites.google.com/view/hoglandsspatia
 - **[Raster_tools_surface](/Notebooks/raster_tools_surface.ipynb)** – A short notebook demonstrating the surface module within Raster Tools.
 - **[Rumple_python](/Notebooks/rumple_python.ipynb)** – A short notebook demonstrating how to create fast for loops using [Numba](https://numba.pydata.org/) and automated parallelization through [Dask](https://dask.org/).
 - **[ACCEL](/Notebooks/Accel.ipynb)** – A short notebook demonstrating how to perform a cost revenue analysis (CRA) using Raster-Tools in the TCSI landscape. This notebook requires more memory than Colab provides and must be run locally or on web services that have more than 15 gb of Ram. 
+- **[TCSI_Demo](/Notebooks/TCSI_Demo.ipynb)** - A short demonstration of how to use ipywidgets to set values and call the delivered cost model to produce potential cost surfaces.
