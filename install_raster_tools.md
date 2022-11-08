@@ -11,3 +11,5 @@ Steps:
 To launch Jupyter Lab type the following commands:
 - conda activate rstools39
 - jupyter lab
+
+For more information about installing Raster-Tools please watch this YouTube video.
