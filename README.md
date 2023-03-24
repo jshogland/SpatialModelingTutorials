@@ -21,6 +21,6 @@ Additional resouces can be found at https://sites.google.com/view/hoglandsspatia
 - **[Rumple_python](/Notebooks/rumple_python.ipynb)** – A short notebook demonstrating how to create fast for loops using [Numba](https://numba.pydata.org/) and automated parallelization through [Dask](https://dask.org/).
 - **[ACCEL](/Notebooks/Accel.ipynb)** – A short notebook demonstrating how to perform a cost revenue analysis (CRA) using Raster-Tools in the TCSI landscape. This notebook requires more memory than Colab provides and must be run locally or on web services that have more than 15 gb of Ram. 
 - **[TCSI_Demo](/Notebooks/TCSI_Demo.ipynb)** - A short demonstration of how to use ipywidgets to set values and call the delivered cost model to produce potential cost surfaces.
-- **[Download Lidar Data](/Notebooks/LidarDownload.ipynb)** - A short noteboo demonstrating how to download lidar point cloud data and derived outputs from the [3Dep program](https://www.usgs.gov/3d-elevation-program).
+- **[Download Lidar Data](/Notebooks/LidarDownload.ipynb)** - A short notebook demonstrating how to download lidar point cloud data and derived outputs from the [3Dep program](https://www.usgs.gov/3d-elevation-program).
 - **[Process Lidar Data](/Notebooks/LidarProcessing.ipynb)** - A short notebook demonstrating how to process lidar point cloud data collected from the [3Dep program](https://www.usgs.gov/3d-elevation-program).
-- **[SampleDesign](/Notebooks/SampleDesign.ipynb)** - A short noteboo demonstrating how to setup a sample design that is well spread using surfaces derived from Lidar.
+- **[SampleDesign](/Notebooks/SampleDesign.ipynb)** - A short notebook demonstrating how to setup a sample design that is well spread using surfaces derived from Lidar.
