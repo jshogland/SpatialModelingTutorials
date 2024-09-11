@@ -26,6 +26,6 @@ Additional resouces can be found at https://sites.google.com/view/hoglandsspatia
 - **[SampleDesign](/Notebooks/SampleDesign.ipynb)** - A short notebook demonstrating how to setup a sample design that is well spread using surfaces derived from Lidar.
 - **[Estimating BAA](/Notebooks/EstimatingBaa.ipynb)** - A short notebook demonstrating how to create a random forest regression model that predicts basal area per acre from lidar based raster surfaces.
 - **[Ft Stewart Sample Design](/Notebooks/FtStewartSampleDesign.ipynb)** - A short notebook demonstrating how to determine sample size and location using ancillary data.
-- **[ANF Gopher Tortious Habitat](/Notebooks/FtStewartGopherTortious.ipynb)** - A short notebook demonstrating how to identify and prioritize gopher tortoise restoration sites.
+- **[ANF Gopher Tortious Habitat](/Notebooks/GopherTortoise.ipynb)** - A short notebook demonstrating how to identify and prioritize gopher tortoise restoration sites.
 - **[Fire Resilience](/Notebooks/FireResilience.ipynb)** - A short notebook demonstrating how to define and quantify costs and revenues associated with treatments design to make landscapes fire resilent.
 
