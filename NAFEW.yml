@@ -4,27 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.12
-  - pip
-  - affine
-  - cfgrib
-  - dask
-  - dask-geopandas
-  - dask-image
-  - fiona
-  - geopandas
-  - netcdf4
-  - numba
-  - numpy
-  - pandas
-  - pygeos
-  - pyogrio
-  - pyproj
-  - python-build
-  - rasterio
-  - rioxarray
-  - scipy
-  - shapely>=2.0
-  - xarray
+  - raster-tools
   - jupyterlab
   - gdown
   - nodejs
@@ -39,4 +19,3 @@ dependencies:
   - scikit-learn 
   - earthengine-api
   - geemap 
-  - raster_tools
