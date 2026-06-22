@@ -39,5 +39,4 @@ dependencies:
   - scikit-learn 
   - earthengine-api
   - geemap 
-  - pip:
-    - raster_tools
+  - raster_tools
